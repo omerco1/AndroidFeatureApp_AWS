@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BoilerPlateHW3</string>
+    <string name="exampleURL">https://www.ucsb.edu</string>
+    <string name="defaultEditText">Type something you want me to say!</string>
+</resources>
